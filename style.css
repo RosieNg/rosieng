@@ -1,0 +1,32 @@
+.background{
+	background-image: url("./background.jpeg");
+}
+
+.avatar-position {
+	top:  169px;
+	right:  109px;
+	width:  400px;
+}
+.avatar-circle{
+	border-radius: 50%;
+}
+.summary{
+	background: grey;
+	color: black;
+	padding: 9px;
+	margin-top:  10px;
+	border-radius: 10px;
+	background-color: #ffffcc;
+	position: absolute;
+	width: 650px;
+	right: 22px;
+	top: 500px;
+	font-size:  18px;
+}
+.quote-container{
+	position: absolute;
+	top: 154px;
+	left: 200px;
+	width: 395px;
+	font-size: 20px;
+}
